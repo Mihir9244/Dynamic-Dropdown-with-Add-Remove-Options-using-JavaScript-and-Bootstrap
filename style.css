@@ -1,0 +1,20 @@
+body{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.container {
+  margin-top: 50px;
+}
+#feedback {
+  margin-top: 10px;
+  font-size: 14px;
+}
+.form-label{
+  border-color: darkgrey;
+}
+.alert {
+  padding: 10px;
+  margin-top: 5px;
+  border-radius: 4px;
+}
+
+
